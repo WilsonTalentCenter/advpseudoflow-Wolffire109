@@ -2,10 +2,10 @@ For this project you only need to create a flow chart for this program not actua
 
 /*Program Description: savings in the stock market. 
 The program should prompt for several input using the following prompts:
-Enter Starting Balance:
-Enter Yearly Contribution:
-Enter Average Return On Investment as %:
-Enter Number of years:
+Enter Starting Balance:50
+Enter Yearly Contribution:15
+Enter Average Return On Investment as %:6
+Enter Number of years:10
 The program should calculate the balance at the end of each year.
 
 Sample input:		Sample Output:
