@@ -22,3 +22,16 @@ Sample input:		Sample Output:
 					Year 2: 1317.75
 					Year 3: 1488.64
 */
+starting balance:
+50
+yearly contribution:
+15
+average return on investment as %:
+6
+number of years:
+4
+year 0: 50.00
+year 1:
+year 2:
+year 3:
+year 4:
